@@ -4,6 +4,7 @@ This replaces the normal FM menu, aka you wont be able to use those feutures lik
 
 Replace the fm.cpp, fm.h in src/core/modules/fm
 Replace the FMMenu.cpp, FMMenu.h in /src/core/menu_items
+Add Tea5767.h to src/core/modules/fm
 
 Steps to build it and flash it:
 
