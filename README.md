@@ -15,3 +15,7 @@ Install PlatformIO extension inside VS Code
 Open PlatformIO home, select import project if it doesn't show up in project (middle of the screen)
 If you alredy replaced the files, then: Select Build in the top right of the screen
 If it says Succeed, then Select Upload(top right of the screen)
+
+
+known issues:
+Doesn't display battery percentage correctly: If the tea5767 modules is connected, it always displays 100% for some reason
